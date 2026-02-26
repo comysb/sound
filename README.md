@@ -2,7 +2,7 @@
 
 > AI 기반 음성 인식 챗봇 서비스
 
-🔗 **서비스 바로가기**: [https://voicebot-ftudatsgedhwadz5be3pzt.streamlit.app/](https://voicebot-ftudatsgedhwadz5be3pzt.streamlit.app/)
+🔗 **서비스 바로가기**: [https://naxphmukapp5ycnzhecwwwz.streamlit.app/](https://naxphmukapp5ycnzhecwwwz.streamlit.app/)
 
 ---
 
